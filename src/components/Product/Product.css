@@ -1,0 +1,19 @@
+.procutContainer{
+    display: flex;
+    border-bottom: 1px solid darkgray;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    align-items: center;
+}
+.product img{
+    width: 200px;
+    height: 150px;
+    margin-right: 20px;
+}
+.main-btn{
+    background-color: gold;
+    width: 120px;
+    height: 30px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+}
